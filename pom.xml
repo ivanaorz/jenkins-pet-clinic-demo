@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.example</groupId>
     <artifactId>jenkins-pet-clinic-demo</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0</version>
     <name>jenkins-pet-clinic-demo</name>
     <description>jenkins-pet-clinic-demo</description>
     <properties>
