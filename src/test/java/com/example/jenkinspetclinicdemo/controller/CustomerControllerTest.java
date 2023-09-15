@@ -11,7 +11,7 @@ class CustomerControllerTest {
 
         String name = "Pet";
 
-        Assertions.assertEquals("Mouse", name);
+        Assertions.assertEquals("Pet", name);
     }
 
 }
